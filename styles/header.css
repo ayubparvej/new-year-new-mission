@@ -1,0 +1,320 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    background-image: url('../resources/img/bannerimage.png');
+    background-size: auto;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 50px 70px 50px;
+    max-width: 1340px;
+    background-repeat: no-repeat;
+    border-radius: 35px;
+}
+
+.banner {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+    height: 600px;
+    width: 95%;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.648);
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.offer {
+    text-align: center;
+    max-width: 802;
+    margin: 0 auto;
+    height: 806px;
+    margin-top: 50px;
+}
+
+.offer1 {
+    max-width: 403;
+    font-size: 40px;
+    font-weight: 800;
+    color: brown;
+
+}
+
+.offer2 {
+    margin-bottom: opx;
+    max-width: 403;
+    font-size: 20px;
+    color: red;
+    display: inline;
+}
+
+.offer3 {
+    margin-top: opx;
+    max-width: 403;
+    font-size: 30px;
+    color: rgb(44, 14, 14);
+    display: inline;
+}
+
+
+.offer-image {
+    width: 804px;
+    height: 500px;
+}
+
+.midnight-party {
+    max-width: 1320px;
+    background-image: url('../resources/img/Vectorrr.png');
+    border-radius: 20px;
+    height: 600px;
+    margin: 70px 50px;
+}
+
+.midnight-party {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 60px;
+}
+
+.section-text {
+    max-width: 697px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.393);
+}
+
+.mid-title {
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.mid-para {
+    font-size: 15px;
+    color: white;
+}
+
+.third-section {
+    max-width: 1320px;
+    max-height: 482px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    margin: 80px 50px;
+}
+
+.placeSpan {
+    color: red;
+}
+
+.btn-joinC {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px 10px;
+    margin-top: 15px;
+}
+
+.fourth-section {
+    display: flex;
+    /* justify-content: center; */
+    max-height: 463px;
+    align-items: center;
+
+    border-radius: 20px;
+    margin: 80px 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.first-text {
+    max-width: 393px;
+}
+
+.newbest {
+    color: brown;
+}
+
+.comingsoon {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.middle-image {
+    max-width: 463px;
+    max-height: 463px;
+    background-image: url('../resources/img/redcircle.png');
+}
+
+.rounded-img {
+    max-width: 460px;
+    max-height: 460px;
+}
+
+
+.last-text {
+    max-width: 276px;
+    margin-left: 100px;
+}
+
+.twofour {
+    font-size: 40px;
+    font-weight: bolder;
+    color: red;
+}
+
+.fifth-section {
+    max-width: 1320px;
+    max-height: 987px;
+    margin: 80px 50px;
+}
+
+.disc-text {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hsale {
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+
+.holidays {
+    color: red;
+}
+
+.disc-banner {
+    height: 433px;
+    /* background-color: aqua; */
+    background-image: url('../resources/img/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 50px 50px 0px 50px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+.discImg {
+    /* max-width: 220px;
+    max-height: 220px;
+    margin-right: 90px; */
+    margin-right: 300px;
+    margin-top: 120px;
+    max-width: 220px;
+    max-height: 260px;
+}
+
+.ractengle {
+    background-image: url('/resources/icon/Rectangle\ 2.png');
+    height: 220px;
+    margin: 0px 50px 50px 50px;
+}
+
+.blast {
+    width: 550px;
+    height: 604px;
+}
+
+.portfolio-text {
+    margin: 0px 50px;
+}
+
+.bst-gft {
+    color: red;
+}
+
+.awesomeport {
+    font-weight: 900;
+}
+
+.image-gallery {
+    margin: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.newsletter {
+    margin: 150px 50px 0px 50px;
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.311);
+    border-radius: 10px;
+    padding: 50px 20px;
+
+}
+
+
+.sbsr {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.emailinput {
+    background-color: white;
+    color: black;
+    border-style: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 20px;
+    width: 300px;
+}
+
+.sbsribe-btn {
+    background-color: red;
+    color: white;
+    border-style: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+    width: 100px;
+}
+
+.footers {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+
+}
+
+.foots1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+}
+
+.phn {
+    display: flex;
+    justify-content: center;
+}
+
+.ico {
+    display: inline;
+}
+
+.foots2 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.foots3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
