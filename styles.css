@@ -6,7 +6,7 @@
 
 
 .header {
-    background-image: url('..resources/img/bannerimage.png');
+    background-image: url('img/bannerimage.png');
     background-size: auto;
     background-position: center;
     height: 600px;
@@ -73,7 +73,7 @@
 
 .midnight-party {
     max-width: 1320px;
-    background-image: url('..resources/img/Vectorrr.png');
+    background-image: url('img/Vectorrr.png');
     border-radius: 20px;
     height: 600px;
     margin: 30px 50px;
@@ -164,7 +164,7 @@
 .middle-image {
     max-width: 463px;
     max-height: 463px;
-    background-image: url('..resources/img/redcircle.png');
+    background-image: url('img/circle.png');
 }
 
 .rounded-img {
@@ -208,7 +208,7 @@
 .disc-banner {
     height: 433px;
     /* background-color: aqua; */
-    background-image: url('..resources/img/Rectangle\ 1.png');
+    background-image: url('img/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: right;
     margin: 50px 50px 0px 50px;
@@ -228,7 +228,7 @@
 }
 
 .ractengle {
-    background-image: url('..resources/icon/Rectangle\ 2.png');
+    background-image: url('icon/Rectangle\ 2.png');
     height: 220px;
     margin: 0px 50px 50px 50px;
 }
