@@ -2,6 +2,10 @@
     margin: 0px;
 }
 
+main {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .header {
     background-image: url('../resources/img/bannerimage.png');
     background-size: auto;
@@ -115,13 +119,19 @@
     color: red;
 }
 
+.text {
+    font-weight: 800;
+    font-size: 25px;
+}
+
 .btn-joinC {
     background-color: red;
     color: white;
     border-radius: 5px;
     border-style: none;
-    padding: 5px 10px;
+    padding: 8px 20px;
     margin-top: 15px;
+    font-weight: bolder;
 }
 
 .fourth-section {
@@ -170,7 +180,7 @@
 
 .twofour {
     font-size: 40px;
-    font-weight: bolder;
+    font-weight: bold;
     color: red;
 }
 
@@ -229,7 +239,7 @@
 }
 
 .portfolio-text {
-    margin: 0px 50px;
+    margin: 15px 50px;
 }
 
 .bst-gft {
@@ -255,6 +265,10 @@
     border-radius: 10px;
     padding: 50px 20px;
 
+}
+
+.ptxt {
+    margin-bottom: 15px;
 }
 
 
